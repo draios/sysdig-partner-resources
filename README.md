@@ -31,4 +31,4 @@ The content is broken into the following sections:
   
   **Deploy** Sysdig solutions
   
-  <a href="https://dig.sysdig.com/c/pf-infographic-promql-cheatsheet?x=u_WFRi">PromQL Cheat SHeet</a>
+  <a href="https://dig.sysdig.com/c/pf-infographic-promql-cheatsheet?x=u_WFRi">PromQL Cheat Sheet</a>

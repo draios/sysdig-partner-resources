@@ -30,3 +30,4 @@ The content is broken into the following sections:
    <a href="https://sysdig.com/blog/sysdig-goes-channel-first/">Sysdig Goes Partner First</a>
   
   **Deploy** Sysdig solutions
+  <a href="https://dig.sysdig.com/c/pf-infographic-promql-cheatsheet?x=u_WFRi">PromQL Cheat SHeet</a>

@@ -35,6 +35,10 @@ The content is broken into the following sections:
 ## *Discover* opportunities to resolve customer challenges related to containers & cloud
 
 ## *Differentiate* our offering from our competitors in this quickly evolving space
+
+   <a href="https://github.com/draios/sysdig-partner-resources/blob/main/README.md">Sysdig vs. Aqua Security</a>
+   
+   <a href="https://dig.sysdig.com/c/pf-container-security-comparison-sysdig-prisma?x=u_WFRi">Sysdig vs. Prisma Cloud</a>
   
 ## *Transact* Sysdig Deals
     

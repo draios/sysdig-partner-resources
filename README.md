@@ -19,7 +19,7 @@ The content is broken into the following sections:
 
    <a href="https://dig.sysdig.com/c/pf-aws-fargate-solution-brief?x=hJvo1P">Fargate Solution Brief</a>
    
-   <a href="https://dig.sysdig.com/c/pf-fargate-scanning-in-under-4-minutes?x=hJvo1P">Fargate Runtime Security Video (4 min)</a>
+   <a href="https://dig.sysdig.com/c/pf-fargate-scanning-in-under-4-minutes?x=hJvo1P">Fargate Security in 4 min</a>
    
    <a href="https://dig.sysdig.com/c/pf-ibm-mcm-brief?x=hJvo1P">IBM Solution Brief</a>
 	    

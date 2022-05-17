@@ -14,8 +14,9 @@ The content is broken into the following sections:
    
 ## *Educate* your customers about how together, we can help them solve business challenges
 	
-	
-   <a href= "https://dig.sysdig.com/c/pf-aws-brief?x=hJvo1P">AWS Unified Security & Visibility</a>
+### AWS Solution	
+  
+  <a href= "https://dig.sysdig.com/c/pf-aws-brief?x=hJvo1P">AWS Unified Security & Visibility</a>
    
    <a href="https://dig.sysdig.com/c/pf-securing-monitoring-aws-container-services?x=hJvo1P">Video: Securing and Monitoring AWS Container Services</a>
 

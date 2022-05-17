@@ -14,7 +14,7 @@ The content is broken into the following sections:
    
 ## *Educate* your customers about how together, we can help them solve business challenges
 	
-### AWS Solution	
+### AWS	
   
   <a href= "https://dig.sysdig.com/c/pf-aws-brief?x=hJvo1P">AWS Unified Security & Visibility</a>
    
@@ -24,14 +24,24 @@ The content is broken into the following sections:
    
    <a href="https://dig.sysdig.com/c/pf-fargate-scanning-in-under-4-minutes?x=hJvo1P">Fargate Security in 4 min</a>
    
+### Google Cloud
+   
    <a href="https://dig.sysdig.com/c/pf-google-partner-brief?x=hJvo1P">Google Solution Brief</a>
+   
+### Azure
 	 
    <a href="https://dig.sysdig.com/c/pf-platform-aks-brief?x=hJvo1P">Azure Solution Brief</a>  
    
+### IBM Cloud
+   
    <a href="https://dig.sysdig.com/c/pf-ibm-mcm-brief?x=hJvo1P">IBM Solution Brief</a>
+   
+### Redhat
 	    
    <a href="https://dig.sysdig.com/c/pf-red-hat-brief?x=hJvo1P">RedHat Solution Brief</a> 
 	 
+### Rancher
+   
    <a href="https://dig.sysdig.com/c/pf-rancher-solution-brief?x=hJvo1P">Rancher Solution Brief</a>
 
   

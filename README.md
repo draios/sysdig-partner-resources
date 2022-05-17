@@ -12,6 +12,8 @@ The content is broken into the following sections:
    <a href="https://dig.sysdig.com/c/pf-sysdig-secure-product-brief?x=hJvo1P">Sysdig Secure Overview</a>
          
    <a href="https://dig.sysdig.com/c/pf-sysdig-monitor-product-brief?x=hJvo1P">Sysdig Monitor Overview</a>
+   
+   <a href'https://www.youtube.com/watch?v=BW_j7hMmv3c"> Sysdig Pricing</a>
     
    
 ## *Educate* your customers about how together, we can help them solve business challenges

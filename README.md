@@ -16,6 +16,8 @@ The content is broken into the following sections:
 	
 	
    <a href= "https://dig.sysdig.com/c/pf-aws-brief?x=hJvo1P">AWS Unified Security & Visibility</a>
+   
+   <a href="https://dig.sysdig.com/c/pf-securing-monitoring-aws-container-services?x=hJvo1P">Video: Securing and Monitoring AWS Container Services</a>
 
    <a href="https://dig.sysdig.com/c/pf-aws-fargate-solution-brief?x=hJvo1P">Fargate Solution Brief</a>
    

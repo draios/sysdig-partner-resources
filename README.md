@@ -5,12 +5,18 @@ The content is broken into the following sections:
 
   **Learn** about Sysdig Offerings
     
-   <a href="https://dig.sysdig.com/c/pf-sysdig-company-brochure?x=hJvo1P">Sysdig Company Brief</a>
+   <a href="https://dig.sysdig.com/c/pf-sysdig-company-brochure?x=hJvo1P">Sysdig Company Overview</a>
+   
+   <a href="https://dig.sysdig.com/c/pf-sysdig-secure-product-brief?x=hJvo1P">Sysdig Secure Overview</a>
+         
+   <a href="https://dig.sysdig.com/c/pf-sysdig-monitor-product-brief?x=hJvo1P">Sysdig Monitor Overview</a>
     
    
   **Educate** your customers about how together, we can help them solve business challenges
 	
 	
+   <a href= "https://dig.sysdig.com/c/pf-aws-brief?x=hJvo1P">AWS Unified Security & Visibility</a>
+
    <a href="https://dig.sysdig.com/c/pf-aws-fargate-solution-brief?x=hJvo1P">Fargate Solution Brief</a>
    
    <a href="https://dig.sysdig.com/c/pf-ibm-mcm-brief?x=hJvo1P">IBM Solution Brief</a>

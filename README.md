@@ -3,7 +3,7 @@ This repository contains public-facing Sysdig partner content.
 
 The content is broken into the following sections:
 
-  #**Learn**# about Sysdig Offerings
+  #**Learn** about Sysdig Offerings
     
    <a href="https://dig.sysdig.com/c/pf-sysdig-company-brochure?x=hJvo1P">Sysdig Company Overview</a>
    

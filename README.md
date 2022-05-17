@@ -7,7 +7,7 @@ The content is broken into the following sections:
     
    <a href="https://dig.sysdig.com/c/pf-sysdig-company-brochure?x=hJvo1P">Sysdig Company Overview</a>
    
-   <a href'"https://www.youtube.com/watch?v=BW_j7hMmv3c">Video: Getting Started with Secure DevOps</a>
+   <a href="https://www.youtube.com/watch?v=BW_j7hMmv3c">Video: Getting Started with Secure DevOps</a>
    
    <a href="https://dig.sysdig.com/c/pf-sysdig-secure-product-brief?x=hJvo1P">Sysdig Secure Overview</a>
          

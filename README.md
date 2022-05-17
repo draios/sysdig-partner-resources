@@ -7,6 +7,8 @@ The content is broken into the following sections:
     
    <a href="https://dig.sysdig.com/c/pf-sysdig-company-brochure?x=hJvo1P">Sysdig Company Overview</a>
    
+   <a href'"https://www.youtube.com/watch?v=BW_j7hMmv3c">Video: Getting Started with Secure DevOps</a>
+   
    <a href="https://dig.sysdig.com/c/pf-sysdig-secure-product-brief?x=hJvo1P">Sysdig Secure Overview</a>
          
    <a href="https://dig.sysdig.com/c/pf-sysdig-monitor-product-brief?x=hJvo1P">Sysdig Monitor Overview</a>
@@ -22,7 +24,7 @@ The content is broken into the following sections:
 
    <a href="https://dig.sysdig.com/c/pf-aws-fargate-solution-brief?x=hJvo1P">Fargate Solution Brief</a>
    
-   <a href="https://dig.sysdig.com/c/pf-fargate-scanning-in-under-4-minutes?x=hJvo1P">Fargate Security in 4 min</a>
+   <a href="https://dig.sysdig.com/c/pf-fargate-scanning-in-under-4-minutes?x=hJvo1P">Video: Fargate Security in 4 min</a>
    
 ### Google Cloud
    

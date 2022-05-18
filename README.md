@@ -34,6 +34,8 @@ The content is broken into the following sections:
    
    <a href="https://dig.sysdig.com/c/pf-google-partner-brief?x=hJvo1P">Google Solution Brief</a>
    
+   <a href="https://dig.sysdig.com/c/pf-continuous-security-for-google-cloud-and-containers?x=hJvo1P">Guide: Continuous Security for Google Cloud and Containers</a>
+   
 ### Azure
 	 
    <a href="https://dig.sysdig.com/c/pf-platform-aks-brief?x=hJvo1P">Azure Solution Brief</a>  

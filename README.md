@@ -50,7 +50,11 @@ The content is broken into the following sections:
    
 ### Azure
 	 
-   <a href="https://dig.sysdig.com/c/pf-platform-aks-brief?x=hJvo1P">Azure Solution Brief</a>  
+   <a href="https://dig.sysdig.com/c/pf-platform-aks-brief?x=hJvo1P">Azure Solution Brief</a>
+	
+   <a href="https://dig.sysdig.com/c/pf-security-and-monitoring-on-azure-container-services?x=u_WFRi">Guide: Security & Monitoring on AWS Container Services</a>
+	
+   <a href="https://dig.sysdig.com/c/pf-5-steps-to-securing-microsoft-azure-cloud-infrastructure?x=hJvo1P">Guide: 5 steps to Securing Microsoft Azure Cloud Infrastructure</a>	
    
 ### IBM Cloud
    

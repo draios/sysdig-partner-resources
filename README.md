@@ -15,7 +15,10 @@ The content is broken into the following sections:
    
    <a href="https://sysdig.com/pricing/"> Sysdig List Pricing</a>
     
-   
+## *Discover* opportunities to resolve customer challenges related to containers & cloud
+	
+   <a href = "https://dig.sysdig.com/c/pf-top-10-use-cases-for-sysdig?x=hJvo1P">Top 10 Use Cases for Sysdig"</a>
+
 ## *Educate* your customers about how together, we can help them solve business challenges
 	
 ### AWS	
@@ -71,11 +74,7 @@ The content is broken into the following sections:
 ### Rancher
    
    <a href="https://dig.sysdig.com/c/pf-rancher-solution-brief?x=hJvo1P">Rancher Solution Brief</a>
-
-  
-## *Discover* opportunities to resolve customer challenges related to containers & cloud
 	
-   <a href = "https://dig.sysdig.com/c/pf-top-10-use-cases-for-sysdig?x=hJvo1P">Top 10 Use Cases for Sysdig"</a>	
 
 ## *Differentiate* our offering from our competitors in this quickly evolving space
 

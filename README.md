@@ -28,6 +28,8 @@ The content is broken into the following sections:
    
    <a href="https://dig.sysdig.com/c/pf-fargate-scanning-in-under-4-minutes?x=hJvo1P">Video: Fargate Security in 4 min</a>
    
+   <a href="https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?uimode=nextgeneration&eventid=3109560&sessionid=1&key=1716DC2FD342C787EAF6BA089B15F718&contenttype=A&eventuserid=305999&playerwidth=1000&playerheight=650&caller=previewLobby&text_language_id=en&format=fhvideo1&newConsole=true&newTabCon=true">Webinar: Securing Serverless Containers on AWS Fargate</a>
+   
 ### Google Cloud
    
    <a href="https://dig.sysdig.com/c/pf-google-partner-brief?x=hJvo1P">Google Solution Brief</a>

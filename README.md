@@ -34,6 +34,8 @@ The content is broken into the following sections:
    
    <a href="https://dig.sysdig.com/c/pf-google-partner-brief?x=hJvo1P">Google Solution Brief</a>
    
+   <a href="https://sysdig.com/blog/securing-google-cloud-run/"Securing Google Cloud Run serverless workloads</a>
+   
    <a href="https://dig.sysdig.com/c/pf-continuous-security-for-google-cloud-and-containers?x=hJvo1P">Guide: Continuous Security for Google Cloud and Containers</a>
    
    <a href="https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?uimode=nextgeneration&eventid=3427630&sessionid=1&key=B2A7D5C56B41C4CF235297900C803F36&contenttype=A&eventuserid=305999&playerwidth=1000&playerheight=650&caller=previewLobby&text_language_id=en&format=fhvideo1&newConsole=true&newTabCon=true">Webinar: Securing Google Cloud & Containers</a>

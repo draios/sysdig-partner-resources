@@ -58,7 +58,11 @@ The content is broken into the following sections:
    
 ### IBM Cloud
    
-   <a href="https://dig.sysdig.com/c/pf-ibm-mcm-brief?x=hJvo1P">IBM Solution Brief</a>
+   <a href="https://dig.sysdig.com/c/pf-ibm-mcm-brief?x=hJvo1P">Brief: IBM Solution</a>
+     
+   <a href="https://dig.sysdig.com/c/pf-ibm-devops-teams-adressing-security?x=hJvo1P">Video: IBM DevOps Teams Addressing Security</a>
+  
+   <a href="https://dig.sysdig.com/c/pf-ibm-troubleshooting-processes-and-tools?x=hJvo1P">Video: Troubleshooting Processes & Tools</a>
    
 ### Redhat
 	    

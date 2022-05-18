@@ -20,13 +20,15 @@ The content is broken into the following sections:
 	
 ### AWS	
   
-  <a href= "https://dig.sysdig.com/c/pf-aws-brief?x=hJvo1P">AWS Unified Security & Visibility</a>
+  <a href= "https://dig.sysdig.com/c/pf-aws-brief?x=hJvo1P">Brief: AWS Unified Security & Visibility</a>
+  
+  <a href="https://dig.sysdig.com/c/pf-close-security-visibility-gap-containers-aws?x=hJvo1P">Brief: Close the Security & Visibility Gap with Containers on AWS>
    
    <a href="https://dig.sysdig.com/c/pf-securing-monitoring-aws-container-services?x=hJvo1P">Video: Securing and Monitoring AWS Container Services</a>
 
    <a href="https://dig.sysdig.com/c/pf-aws-container-security-monitoring-guide?x=hJvo1P">Guide: Continuous Security for AWS Cloud and Containers</a>
 
-   <a href="https://dig.sysdig.com/c/pf-aws-fargate-solution-brief?x=hJvo1P">Fargate Solution Brief</a>
+   <a href="https://dig.sysdig.com/c/pf-aws-fargate-solution-brief?x=hJvo1P">Brief: Fargate Solution Brief</a>
    
    <a href="https://dig.sysdig.com/c/pf-fargate-scanning-in-under-4-minutes?x=hJvo1P">Video: Fargate Security in 4 min</a>
    
@@ -34,7 +36,7 @@ The content is broken into the following sections:
    
 ### Google Cloud
    
-   <a href="https://dig.sysdig.com/c/pf-google-partner-brief?x=hJvo1P">Google Solution Brief</a>
+   <a href="https://dig.sysdig.com/c/pf-google-partner-brief?x=hJvo1P">Brief: Google Cloud Solution</a>
    
    <a href="https://sysdig.com/blog/securing-google-cloud-run/">Securing Google Cloud Run serverless workloads</a>
    

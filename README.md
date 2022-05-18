@@ -74,6 +74,8 @@ The content is broken into the following sections:
 
   
 ## *Discover* opportunities to resolve customer challenges related to containers & cloud
+	
+   <a href = "https://dig.sysdig.com/c/pf-top-10-use-cases-for-sysdig?x=hJvo1P">Top 10 Use Cases for Sysdig"</a>	
 
 ## *Differentiate* our offering from our competitors in this quickly evolving space
 

@@ -24,6 +24,8 @@ The content is broken into the following sections:
    
    <a href="https://dig.sysdig.com/c/pf-securing-monitoring-aws-container-services?x=hJvo1P">Video: Securing and Monitoring AWS Container Services</a>
 
+   <a href="https://dig.sysdig.com/c/pf-aws-container-security-monitoring-guide?x=hJvo1P">Guide: Continuous Security for AWS Cloud and Containers</a>
+
    <a href="https://dig.sysdig.com/c/pf-aws-fargate-solution-brief?x=hJvo1P">Fargate Solution Brief</a>
    
    <a href="https://dig.sysdig.com/c/pf-fargate-scanning-in-under-4-minutes?x=hJvo1P">Video: Fargate Security in 4 min</a>

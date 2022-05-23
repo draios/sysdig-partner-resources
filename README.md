@@ -83,6 +83,8 @@ The content is broken into the following sections:
    <a href="https://dig.sysdig.com/c/pf-container-security-comparison-sysdig-lacework?x=hJvo1P">Sysdig vs. Lacework</a>
 	
    <a href="https://dig.sysdig.com/c/pf-container-security-comparison-sysdig-aqua?x=u_WFRi">Sysdig vs. Aqua Security</a>
+	
+   <a href="https://dig.sysdig.com/c/pf-sysdig-qualys-checklist?x=hJvo1P">Sysdig vs. Qualys</a>
   
 ## *Transact* Sysdig Deals
     

@@ -69,7 +69,7 @@ The content is broken into the following sections:
    
 ### Sysdig & Snyk
 	
-	<a href="https://dig.sysdig.com/c/pf-snyk-and-sysdig-solution-brief?x=hJvo1P">Brief: Sysdig & Snyk Solution</a>
+   <a href="https://dig.sysdig.com/c/pf-snyk-and-sysdig-solution-brief?x=hJvo1P">Brief: Sysdig & Snyk Solution</a>
 	
 ### Redhat
 	    

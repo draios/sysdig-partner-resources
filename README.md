@@ -67,6 +67,10 @@ The content is broken into the following sections:
   
    <a href="https://dig.sysdig.com/c/pf-ibm-troubleshooting-processes-and-tools?x=hJvo1P">Video: Troubleshooting Processes & Tools</a>
    
+### Sysdig & Snyk
+	
+	<a href="https://dig.sysdig.com/c/pf-snyk-and-sysdig-solution-brief?x=hJvo1P">Brief: Sysdig & Snyk Solution</a>
+	
 ### Redhat
 	    
    <a href="https://dig.sysdig.com/c/pf-red-hat-brief?x=hJvo1P">RedHat Solution Brief</a> 
@@ -85,6 +89,10 @@ The content is broken into the following sections:
    <a href="https://dig.sysdig.com/c/pf-container-security-comparison-sysdig-aqua?x=u_WFRi">Sysdig vs. Aqua Security</a>
 	
    <a href="https://dig.sysdig.com/c/pf-sysdig-qualys-checklist?x=hJvo1P">Sysdig vs. Qualys</a>
+	
+   <a href="https://dig.sysdig.com/c/pf-sysdig-qualys-checklist?x=hJvo1P">Sysdig vs. Rapid7</a>
+	
+   <a href="https://dig.sysdig.com/c/pf-sysdig-qualys-checklist?x=hJvo1P">Sysdig vs. CheckPoint CloudGuard</a>
   
 ## *Transact* Sysdig Deals
     

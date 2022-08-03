@@ -13,11 +13,25 @@ The content is broken into the following sections:
          
    <a href="https://dig.sysdig.com/c/pf-sysdig-monitor-product-brief?x=hJvo1P">Sysdig Monitor Overview</a>
    
-   <a href="https://sysdig.com/pricing/"> Sysdig List Pricing</a>
     
 ## *Discover* opportunities to resolve customer challenges related to containers & cloud
 	
    <a href = "https://dig.sysdig.com/c/pf-top-10-use-cases-for-sysdig?x=hJvo1P">Top 10 Use Cases for Sysdig</a>
+  
+  ### Services
+  
+   <a href = "https://dig.sysdig.com/c/pf-service-brief-agent-deploy?x=Q4fn65">Agent Deploy
+     
+   <a href = "https://dig.sysdig.com/c/pf-service-brief-runtime-scanning?x=Q4fn65">Runtime Scanning
+     
+   <a href = "https://dig.sysdig.com/c/pf-service-brief-admissions-controller?x=Q4fn65">Admissions Controller
+     
+   <a href = "https://dig.sysdig.com/c/pf-service-brief-ci-cd?x=Q4fn65">CI/CD Pipeline
+     
+   <a href = "https://dig.sysdig.com/c/pf-service-brief-registry-scanning?x=Q4fn65">Registry Scanning
+     
+   <a href = "https://dig.sysdig.com/c/pf-service-brief-on-premise-to-saas?x=Q4fn65">On-Premise to SaaS Migration
+     
 
 ## *Educate* your customers about how together, we can help them solve business challenges
 	
